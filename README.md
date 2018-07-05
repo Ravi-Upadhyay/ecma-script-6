@@ -25,7 +25,7 @@ ECMAScript (ES) is a scripting language specification standardized by [ECMA Inte
 
 ## E Books
 
-1. [O\'Reilly - You Don\'t Know JS. ES6 & Beyond](https://github.com/ravi-upadhyay/ecma-script-6/E Books/ydkjs-es6-and-beyond.pdf), Want to read on your own - One of Best Books Available.
+1. [O'Reilly - You Don't Know JS. ES6 & Beyond](https://github.com/ravi-upadhyay/ecma-script-6/E Books/ydkjs-es6-and-beyond.pdf), Want to read on your own - One of Best Books Available.
 
 ## Online Resources
 
