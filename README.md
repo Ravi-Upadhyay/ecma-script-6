@@ -5,12 +5,12 @@ It is useful for those who want to learn the latest developments in the language
 
 ## Features
 * [Constant variable with const keyword](constants.md)
-* Block Scoping let keywork
-* Arrow Functions
-* Default parameter
-* Rest Parameter
-* Spread Operator
-* Object Literals
+* [Block Scoping let keyword](block-scope.md)
+* [Arrow Functions](arrow-functions.md)
+* [Default parameter](default-params.md)
+* [Rest Parameter](rest-params.md)
+* [Spread Operator](spread-operator.md)
+* [Object Literals](object-literals.md)
 
 ## Authors
 
