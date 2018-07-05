@@ -1,8 +1,16 @@
 # ECMA Script 6 - Let's Learn
 
-This is only structure of file. We have to properly document it.
+ECMAScript (ES) is a scripting language specification standardized by ECMAScript International. It is used by applications to enable client-side scripting.
+It is useful for those who want to learn the latest developments in the language and implement the same in JavaScript.
 
-. 
+##Features
+* Constant variable with const keyword
+* Block Scoping let keywork
+* Arrow Functions
+* Default parameter
+* Rest Parameter
+* Spread Operator
+* Object Literals
 
 ## Authors
 
@@ -16,5 +24,3 @@ This is only structure of file. We have to properly document it.
 * etc
 
 
-
-something
