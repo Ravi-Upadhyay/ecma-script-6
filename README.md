@@ -1,18 +1,5 @@
 # ECMA Script 6 - Let's Learn
 
-<<<<<<< HEAD
-ECMAScript (ES) is a scripting language specification standardized by ECMAScript International. It is used by applications to enable client-side scripting.
-It is useful for those who want to learn the latest developments in the language and implement the same in JavaScript.
-
-## Features
-* Constant variable with const keyword
-* Block Scoping let keywork
-* Arrow Functions
-* Default parameter
-* Rest Parameter
-* Spread Operator
-* Object Literals
-=======
 ECMAScript (ES) is a scripting language specification standardized by [ECMA International](http://www.ecma-international.org/). 
 
 > [ECMA International](http://www.ecma-international.org/) is an industry association founded in 1961, dedicated to the standardization of information and communication systems.
@@ -47,7 +34,6 @@ ECMAScript (ES) is a scripting language specification standardized by [ECMA Inte
 3. [A Quick Overview in Few Minutes](https://www.frontendjournal.com/javascript-es6-learn-important-features-in-a-few-minutes/), An article covering important features of ES6
 4. [ES6 Overview - 350 Bullet Points](https://ponyfoo.com/articles/es6), Quick Revise
 5. [A Complete Guide - Paid Tutorial](https://es6.io/), Want to Master ES6 - Best tutorial Available
->>>>>>> 86cba1a7263bc73aca3d83d8d046b84ee74641c5
 
 ## Authors
 
