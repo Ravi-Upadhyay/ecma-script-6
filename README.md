@@ -3,7 +3,7 @@
 ECMAScript (ES) is a scripting language specification standardized by ECMAScript International. It is used by applications to enable client-side scripting.
 It is useful for those who want to learn the latest developments in the language and implement the same in JavaScript.
 
-##Features
+## Features
 * Constant variable with const keyword
 * Block Scoping let keywork
 * Arrow Functions
