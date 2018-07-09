@@ -12,6 +12,12 @@ ECMAScript (ES) is a scripting language specification standardized by [ECMA Inte
 * After this ES7/ES2016 and ES8/ES2017 also got released.
 * ES.Next is dynamic term which refers to next version to come out.
 
+## An Irony in JS/ES Development
+
+It can be seen as major challange in JS development. JS code is compiled at run time on user's machine. If you are using some latest standards in your code, you have to make sure it do not breaks in case the browsers are not updated. Every fearure that released by ECMA is implemented by different browsers independently. `Transpilers` is saviour in these situations. It first translate your code into widely acccepted standard (i.e. ES5) then compile. [Babel](https://babeljs.io/) is very famous such transpiler. You even heared about terms `Polyfills/Shims` These are equivalent code which can ensure backwards compatibility. Here  is list of some popular `Polyfills/Shims` being used.
+[ES6-Polyfills/Shims](https://github.com/paulmillr/es6-shim/).
+
+
 ## ES6 Features - Dive Deep
 
 * [Arrow Functions](arrow-functions.md)
@@ -40,10 +46,5 @@ ECMAScript (ES) is a scripting language specification standardized by [ECMA Inte
 * [Ravi Upadhyay](https://github.com/Ravi-Upadhyay)
 * [Shyamily Gowda](https://github.com/shyamily-gowda)
 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
 
 
