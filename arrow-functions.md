@@ -1,14 +1,9 @@
 # ECMA Script 6 - Arrow Functions
-* The arrow function provides you with an alternative way to write a shorter syntax compared to the function expression.
-* JavaScript arrow function with multiple parameters
-    ```(p1, p2, ..., pn) => expression;```
-    The following expression:
-    ``` => expression ```
-    is equivalent to 
-    ``` { return expression; } ```
 
-##Example 
-* [Arrow Function](https://codepen.io/shyamily-gowda/pen/NzVYvB)
+> An arrow function expression is a syntactically compact alternative to a regular function expression, although without its own bindings to the `this`, `arguments`, `super`, or `new.target` keywords. Arrow function expressions are ill suited as methods, and they cannot be used as `constructors`.
+
+## Example 
+* [Arrow Function - Codepen](https://codepen.io/shyamily-gowda/pen/NzVYvB)
 
 ## Authors
 
